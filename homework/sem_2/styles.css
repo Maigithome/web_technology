@@ -1,0 +1,19 @@
+html
+h1 {
+    color: rgb(72, 42, 181);
+  }
+  h2 {
+    color: rgb(78, 114, 78);
+  }
+a {
+    color: rgb(65, 15, 28);
+  }
+
+body {
+    background-color: rgb(192, 188, 208);
+  }
+ul {
+    list-style-type: square;
+}
+
+
